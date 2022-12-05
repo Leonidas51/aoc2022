@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "npm-run-all build run",
-    "build": "esbuild tasks/4-2.ts --platform=node --bundle --outdir=dist",
-    "run": "node dist/4-2.js"
+    "build": "esbuild tasks/5-2.ts --platform=node --bundle --outdir=dist",
+    "run": "node dist/5-2.js"
   },
   "repository": {
     "type": "git",
